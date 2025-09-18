@@ -5,7 +5,7 @@ import org.springframework.format.number.PercentStyleFormatter;
 public final class SwaggerConstants {
     public static final String BOARD_COMMENT_CREATED_REQUEST = """
             {
-                 "content": "좋은 게시글이네요!"
+                 "content": "좋은 게시글이네요    !"
             }
             """;
     public static final String BOARD_COMMENT_CREATED_RESPONSE = """
