@@ -70,7 +70,7 @@ public final class SwaggerConstants {
             {
                 "data": null,
                 "code": 200,
-                "message": "댓글 삭제 성공"
+                "message": "댓글   삭제 성공"
             }
             """;
     public static final String BOARD_COMMENT_LIST_RESPONSE = """
