@@ -79,7 +79,7 @@ public final class SwaggerConstants {
                     {
                         "idx": 24,
                         "content": null,
-                        "createdAt": "2025-08-17 13:05:07",
+                        "createdAt": "2025-08-17 13: 05:07",
                         "updatedAt": "2025-08-17 13:05:07",
                         "isModified": false
                     },
